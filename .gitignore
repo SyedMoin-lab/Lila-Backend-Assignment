@@ -1,0 +1,12 @@
+/.cache
+/nkclient
+/ebclient
+/fyneclient
+/gioclient
+/cmd/fyneclient/wasm
+
+*.wasm
+*.gz
+*.exe
+*.txt
+*.log
